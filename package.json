@@ -1,5 +1,5 @@
 {
-    "name": "rfb2",
+    "name": "@bunchtogether/rfb2",
     "author": "Andrey Sidorov <sidorares@yandex.ru>",
     "description": "RFB protocol client and server",
     "keywords": [

@@ -40,7 +40,7 @@ PackStream.prototype.readString = function(strcb) {
 };
 
 RfbClient.prototype.end = function() {
-  this.stream.end();
+  this.stream.destroy();
 };
 
 RfbClient.prototype.readError = function() {
